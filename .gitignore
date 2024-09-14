@@ -1,3 +1,5 @@
-.idea
-requirements.txt
-.gitignore
+# Игнорировать все файлы
+*
+
+# Не игнорировать файлы с расширением .ipynb
+!*.ipynb
